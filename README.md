@@ -1,4 +1,5 @@
 # Dice-game
+Live demo: https://taylorc19.github.io/Dice-game/
 
 ## What does it do?
 
